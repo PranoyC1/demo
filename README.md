@@ -1,2 +1,2 @@
 # demo
-Making Demo For Git &amp; Github
+Making Demo For Git &amp; Github.
